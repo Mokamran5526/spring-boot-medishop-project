@@ -10,7 +10,7 @@ import jakarta.persistence.OneToMany;
 import lombok.Data;
 
 /**
- * @author Mo Masood Ansari
+ * @author MD Kamran
  *.
  */
 @Entity
