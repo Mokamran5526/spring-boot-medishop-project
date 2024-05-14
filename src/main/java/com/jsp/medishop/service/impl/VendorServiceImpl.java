@@ -16,7 +16,7 @@ import com.jsp.medishop.verification.EmailPasswordVerification;
 import jakarta.servlet.http.HttpSession;
 
 /**
- * @author Mo Masood Ansari
+ * @author MD Kamran
  *
  */
 @Service
