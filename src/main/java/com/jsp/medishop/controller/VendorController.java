@@ -14,7 +14,7 @@ import com.jsp.medishop.response.ResponseStructure;
 import com.jsp.medishop.service.VendorService;
 
 /**
- * @author Mo Masood Ansari
+ * @author MD Kamran
  *
  */
 @RestController
