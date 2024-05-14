@@ -14,7 +14,7 @@ import jakarta.persistence.Transient;
 import lombok.Data;
 
 /**
- * @author Atul
+ * @author MD Kamran
  */
 @Entity
 @Data
