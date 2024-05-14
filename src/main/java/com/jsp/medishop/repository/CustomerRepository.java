@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import com.jsp.medishop.dto.Customer;
 
 /**
- * @author Kamran
+ * @author MD Kamran
  */
 public interface CustomerRepository extends JpaRepository<Customer, Integer> {
 
