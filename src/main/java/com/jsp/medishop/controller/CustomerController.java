@@ -16,7 +16,7 @@ import com.jsp.medishop.service.CustomerService;
 
 
 /**
- * @author Mo Masood Ansari
+ * @author MD Kamran
  *
  */
 @RestController
