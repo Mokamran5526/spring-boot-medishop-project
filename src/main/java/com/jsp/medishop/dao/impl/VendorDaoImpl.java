@@ -12,7 +12,7 @@ import com.jsp.medishop.repository.VendorRepository;
 
 
 /**
- * @author Mo Masood Ansari
+ * @author MD Kamran
  *
  */
 @Repository
