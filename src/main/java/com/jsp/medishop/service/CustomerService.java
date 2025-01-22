@@ -1,7 +1,7 @@
 package com.jsp.medishop.service;
 
 /**
- * @author Atul
+ * @author Md Kamran
  */
 
 import java.util.List;
